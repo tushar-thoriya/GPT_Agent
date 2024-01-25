@@ -1,2 +1,2 @@
-apikey = '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'
+apikey = 'Eneter your API key'
 
